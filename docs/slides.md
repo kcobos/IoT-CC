@@ -96,7 +96,3 @@ Kevin Ashton, profesor del MIT
 * https://en.wikipedia.org/wiki/Industrial_internet_of_things
 * https://www.postscapes.com/iot-history/
 * https://iot-analytics.com/iot-platform-companies-landscape-2020/
-
-
-<!-- https://media.threatpost.com/wp-content/uploads/sites/103/2018/10/22114828/5G.png
-https://www.gizmochina.com/wp-content/uploads/2019/04/Insights-How-IoT-and-Digital-Transformation-Will-Turn-Systems-Integrators-into-Strategic-Integrators.jpg -->
