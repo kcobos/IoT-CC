@@ -80,11 +80,22 @@ Kevin Ashton, profesor del MIT
 
 
 
+## Algunos números
+
+
+<!-- .slide: data-background="https://iot-analytics.com/wp/wp-content/uploads/2019/12/Number-of-IoT-Platforms-2015-2019.png" data-background-position="top center" data-background-size="contain" data-background-opacity="1" -->
+
+
+<!-- .slide: data-background="https://iot-analytics.com/wp/wp-content/uploads/2019/12/IoT-Platforms-Company-Landscape-Database-2020-by-industry-min.png" data-background-position="top center" data-background-size="contain" data-background-opacity="1" -->
+
+
+
 ## Referencias
 * https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/
 * https://en.wikipedia.org/wiki/Internet_of_things
 * https://en.wikipedia.org/wiki/Industrial_internet_of_things
 * https://www.postscapes.com/iot-history/
+* https://iot-analytics.com/iot-platform-companies-landscape-2020/
 
 
 <!-- https://media.threatpost.com/wp-content/uploads/sites/103/2018/10/22114828/5G.png
